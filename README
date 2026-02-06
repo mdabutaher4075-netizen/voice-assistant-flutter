@@ -1,0 +1,14 @@
+# Voice Assistant Flutter App
+
+এই প্রজেক্টটি Flutter দিয়ে তৈরি করা হচ্ছে।
+
+## ফিচারসমূহ
+- Google Sign In (Firebase)
+- Speech to Text (Mic)
+- Language Select (Bangla / English / Hindi)
+- API Integration (Gemini / অন্যান্য)
+- Google Text to Speech (TTS)
+- সুন্দর Card UI + Animation
+
+## Setup
+এই প্রজেক্টে Firebase, API এবং TTS যুক্ত করা হবে।
